@@ -1,0 +1,74 @@
+[
+  {
+    "user_id": "4a1b84f7-9756-4549-837e-9574c7ffc142",
+    "timestamp": "2022-08-08T14:15:28.327Z",
+    "currency": "GBP",
+    "amount": "+12.00"
+  },
+  {
+    "user_id": "4a1b84f7-9756-4549-837e-9574c7ffc142",
+    "timestamp": "2022-08-08T22:15:28.327Z",
+    "currency": "USD",
+    "amount": "-12.00"
+  },
+  {
+    "user_id": "4a1b84f7-9756-4549-837e-9574c7ffc142",
+    "timestamp": "2022-08-08T17:15:28.327Z",
+    "currency": "EUR",
+    "amount": "+2.00"
+  },
+  {
+    "user_id": "4a1b84f7-9756-4549-837e-9574c7ffc142",
+    "timestamp": "2022-08-08T19:15:28.327Z",
+    "currency": "USD",
+    "amount": "-7.00"
+  },
+  {
+    "user_id": "4a1b84f7-9756-4549-837e-9574c7ffc142",
+    "timestamp": "2022-08-09T19:25:28.327Z",
+    "currency": "GBP",
+    "amount": "+38.00"
+  },
+  {
+    "user_id": "4a1b84f7-9756-4549-837e-9574c7ffc142",
+    "timestamp": "2022-08-09T12:15:28.327Z",
+    "currency": "GBP",
+    "amount": "-2.00"
+  },
+  {
+    "user_id": "faf4a6fe-c839-4ee3-ac11-ee3957ac6332",
+    "timestamp": "2022-08-08T11:22:28.327Z",
+    "currency": "EUR",
+    "amount": "-3.99"
+  },
+  {
+    "user_id": "faf4a6fe-c839-4ee3-ac11-ee3957ac6332",
+    "timestamp": "2022-08-08T11:11:28.327Z",
+    "currency": "EUR",
+    "amount": "-3.99"
+  },
+  {
+    "user_id": "faf4a6fe-c839-4ee3-ac11-ee3957ac6332",
+    "timestamp": "2022-08-08T11:15:28.327Z",
+    "currency": "EUR",
+    "amount": "1.99"
+  },
+  {
+    "user_id": "faf4a6fe-c839-4ee3-ac11-ee3957ac6332",
+    "timestamp": "2022-08-08T19:15:28.327Z",
+    "currency": "EUR",
+    "amount": "5.29"
+  },
+  {
+    "user_id": "faf4a6fe-c839-4ee3-ac11-ee3957ac6332",
+    "timestamp": "2022-08-08T21:51:28.327Z",
+    "currency": "USD",
+    "amount": "-1.12"
+  },
+  {
+    "user_id": "faf4a6fe-c839-4ee3-ac11-ee3957ac6332",
+    "timestamp": "",
+    "currency": "USD",
+    "amount": "22"
+  }
+]
